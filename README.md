@@ -38,4 +38,5 @@ This tool allows you to generate strong, random passwords by choosing between **
 ```bash
 git clone https://github.com/your-username/password-generator-gui
 cd PassGenerator
+pip install -r requirements.txt
 python main.py
