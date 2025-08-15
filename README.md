@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ROSHAN-Z89/password-generator-gui/main/assets/passgenerator.png" alt="Password Generator Screenshot" width="600"/>
+  <img src="passgenerator.png" alt="Password Generator Screenshot" width="500"/>
 </p>
 
 ---
