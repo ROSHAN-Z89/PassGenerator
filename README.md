@@ -10,6 +10,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ROSHAN-Z89/password-generator-gui/main/assets/passgenerator.png" alt="Password Generator Screenshot" width="600"/>
+</p>
+
+---
+
+
 ## 🧠 Description
 
 A simple and clean GUI-based **Password Generator** built with `Tkinter`.  
